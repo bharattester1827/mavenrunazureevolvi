@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="4" tests="4" time="0">
+<testcase classname="Single Journey route" name="Standard Journey with all delivery method" time="0">
+<skipped><![CDATA[Given User is on the login page.............................................undefined
+When User enter valid "Username" and "Password".............................undefined
+And User click on login button..............................................undefined
+Then User is on HomePage of Evolvi..........................................undefined
+When User enter origin and destination then click on faresearch button......undefined
+And User click on add to basket button and then checkout button.............undefined
+And User click "ToDelivery" and click on Buynow button......................undefined
+And User is agree with terms and condition and click on confirm button......undefined
+Then User is able to see the reference of that order........................undefined
+And User click on Log Off button............................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Single Journey route" name="Standard Journey with all delivery method 2" time="0">
+<skipped><![CDATA[Given User is on the login page.............................................undefined
+When User enter valid "Username" and "Password".............................undefined
+And User click on login button..............................................undefined
+Then User is on HomePage of Evolvi..........................................undefined
+When User enter origin and destination then click on faresearch button......undefined
+And User click on add to basket button and then checkout button.............undefined
+And User click "KioskDelivery" and click on Buynow button...................undefined
+And User is agree with terms and condition and click on confirm button......undefined
+Then User is able to see the reference of that order........................undefined
+And User click on Log Off button............................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Single Journey route" name="Standard Journey with all delivery method 3" time="0">
+<skipped><![CDATA[Given User is on the login page.............................................undefined
+When User enter valid "Username" and "Password".............................undefined
+And User click on login button..............................................undefined
+Then User is on HomePage of Evolvi..........................................undefined
+When User enter origin and destination then click on faresearch button......undefined
+And User click on add to basket button and then checkout button.............undefined
+And User click "mticketDelivery" and click on Buynow button.................undefined
+And User is agree with terms and condition and click on confirm button......undefined
+Then User is able to see the reference of that order........................undefined
+And User click on Log Off button............................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Single Journey route" name="Standard Journey with all delivery method 4" time="0">
+<skipped><![CDATA[Given User is on the login page.............................................undefined
+When User enter valid "Username" and "Password".............................undefined
+And User click on login button..............................................undefined
+Then User is on HomePage of Evolvi..........................................undefined
+When User enter origin and destination then click on faresearch button......undefined
+And User click on add to basket button and then checkout button.............undefined
+And User click "StandardDelivery" and click on Buynow button................undefined
+And User is agree with terms and condition and click on confirm button......undefined
+Then User is able to see the reference of that order........................undefined
+And User click on Log Off button............................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
